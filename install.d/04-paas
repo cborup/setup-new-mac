@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+brew install platformsh/tap/platformsh-cli
+brew tap heroku/brew
+brew install heroku

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+# https://apps.apple.com/dk/app/xcode/id497799835?mt=12
+mas install 497799835

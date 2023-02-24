@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Telegram
+mas install 747648890
+
+# Slack
+mas install 803453959
+
