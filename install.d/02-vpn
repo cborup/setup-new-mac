@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# https://apps.apple.com/dk/app/wireguard/id1451685025?mt=12
+mas install 1451685025

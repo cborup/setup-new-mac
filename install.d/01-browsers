@@ -4,3 +4,4 @@ brew install --cask firefox-developer-edition
 brew install --cask google-chrome
 brew install chrome-cli
 brew install httpie
+brew install wget

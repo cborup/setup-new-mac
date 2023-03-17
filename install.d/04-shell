@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+brew install starship
+
+grep -q starship ~/.zshrc || echo 'eval "$(starship init zsh)"' >> $HOME/.zshrc

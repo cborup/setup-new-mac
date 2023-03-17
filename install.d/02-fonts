@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /tmp
+wget -q https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/FiraCode.zip
+unzip -n -d $HOME/Library/Fonts FiraCode.zip '*.ttf'
